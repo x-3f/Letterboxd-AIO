@@ -39,6 +39,14 @@
 
 ---
 
+## ⚠️ Disclaimer
+
+This tool is not affiliated with or endorsed by Letterboxd.  
+Use at your own risk.  
+**I am not responsible for any issues, bans, or consequences that may occur from using this tool, including violations of Letterboxd’s Terms of Service.**
+
+---
+
 <div align="center">
   <img src="https://raw.githubusercontent.com/kbariotis/svg-scanlines/master/scanlines.svg" width="100%">
 </div>
