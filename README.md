@@ -1,14 +1,44 @@
-Current feature list:
-Unfollow all non mutuals
-Copy someones follower list (with a custom amount of people to follow)
-Account stats (Followers, Following, Followers:Following ration, Amount of Non mutuals)
+<div align="center">
 
-A lot more stuff to come this is just the start.
+# **Letterboxd AIO**
 
-Coded by me, errors and UI coded by claude.
+<p>
+  <img src="https://img.shields.io/badge/Language-Python-6A0DAD?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Status-In_Development-9B30FF?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Version-1.0-purple?style=for-the-badge">
+</p>
 
-Requirements:
-https://developer.chrome.com/docs/chromedriver/downloads
-pip install selenium
+</div>
 
-Thank you<3
+## ✨ Features
+
+- Unfollow all non-mutual accounts  
+- Copy another user's follower list (custom amount)  
+- View account statistics:
+  - Followers  
+  - Following  
+  - Follower / Following ratio  
+  - Non-mutual count  
+- More features planned
+
+---
+
+## 📦 Requirements
+
+    ChromeDriver:
+    https://developer.chrome.com/docs/chromedriver/downloads
+
+    pip install selenium
+
+---
+
+## 👤 Credits
+
+- Core development: Me  
+- UI & cleanup assistance: Claude
+
+---
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/kbariotis/svg-scanlines/master/scanlines.svg" width="100%">
+</div>
